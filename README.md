@@ -1,5 +1,5 @@
 # Simple ATS Resume Checker
-![image](https://github.com/user-attachments/assets/eb669cbd-2537-43ca-b73c-ad89ab3b2a44)
+<img src="https://github.com/user-attachments/assets/eb669cbd-2537-43ca-b73c-ad89ab3b2a44" width=50% height=50%>
 
 A simple resume analyzer and job description matcher built with Python and Streamlit to help job seekers optimize their resumes for Applicant Tracking Systems (ATS).
 
