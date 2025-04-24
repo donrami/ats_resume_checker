@@ -10,6 +10,7 @@ A simple resume analyzer and job description matcher built with Python and Strea
   - Presence of contact details
   - Length and bullet point usage
   - Readability score
+- Flesch Reading Ease Score
 - Job description keyword matching with match score
 - Visual keyword frequency charts
 
