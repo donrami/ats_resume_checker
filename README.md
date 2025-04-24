@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ### 3. Run the App
 
 ```bash
-streamlit run ats-resume-checker.py
+streamlit run ats_streamlit_ui.py
 ```
 
 ## License
