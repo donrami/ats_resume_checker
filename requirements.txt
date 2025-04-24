@@ -1,0 +1,7 @@
+streamlit
+pandas
+altair
+langdetect
+pylatexenc
+textstat
+PyMuPDF
